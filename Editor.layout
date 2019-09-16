@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="linhas.c" open="1" top="0" tabpos="4">
+		<Cursor position="4037" topLine="0" />
+	</File>
+	<File name="linhas.h" open="1" top="0" tabpos="5">
+		<Cursor position="83" topLine="0" />
+	</File>
+	<File name="listaDupla.c" open="1" top="0" tabpos="6">
+		<Cursor position="2305" topLine="0" />
+	</File>
+	<File name="listaDupla.h" open="1" top="0" tabpos="7">
+		<Cursor position="70" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="5613" topLine="114" />
+	</File>
+	<File name="tela.c" open="1" top="1" tabpos="2">
+		<Cursor position="11423" topLine="378" />
+	</File>
+	<File name="tela.h" open="1" top="0" tabpos="3">
+		<Cursor position="3388" topLine="70" />
+	</File>
+</CodeBlocks_layout_file>

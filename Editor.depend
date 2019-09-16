@@ -1,0 +1,249 @@
+# depslib dependency file v1.0
+1351819954 source:f:\00 topicos em orientacao a objetos\02 my\editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDupla.h"
+	"tela.h"
+
+1347653818 source:f:\00 topicos em orientacao a objetos\02 my\editor\tela.c
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	"tela.h"
+
+1347653110 f:\00 topicos em orientacao a objetos\02 my\editor\tela.h
+
+1351820022 source:f:\00 topicos em orientacao a objetos\02 my\editor\listadupla.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"listaDupla.h"
+
+1351819702 f:\00 topicos em orientacao a objetos\02 my\editor\listadupla.h
+
+1352170656 source:k:\00 topicos em orientacao a objetos\02 my\editor\tela.c
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	"tela.h"
+	<string.h>
+	<unistd.h>
+
+1352162026 k:\00 topicos em orientacao a objetos\02 my\editor\tela.h
+	"linhas.h"
+	"listaDupla.h"
+
+1352170072 source:k:\00 topicos em orientacao a objetos\02 my\editor\listadupla.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"listaDupla.h"
+
+1352148506 k:\00 topicos em orientacao a objetos\02 my\editor\listadupla.h
+
+1352166224 source:k:\00 topicos em orientacao a objetos\02 my\editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+	"listaDupla.h"
+	"linhas.h"
+	"tela.h"
+
+1352138328 source:k:\00 topicos em orientacao a objetos\02 my\editor\linhas.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"linhas.h"
+
+1351888170 k:\00 topicos em orientacao a objetos\02 my\editor\linhas.h
+	"listaDupla.h"
+
+1351901160 source:i:\00 topicos em orientacao a objetos\02 my\editor\listadupla.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"listaDupla.h"
+
+1352081958 i:\00 topicos em orientacao a objetos\02 my\editor\tela.h
+	"linhas.h"
+	"listaDupla.h"
+
+1351888170 i:\00 topicos em orientacao a objetos\02 my\editor\linhas.h
+	"listaDupla.h"
+
+1351894860 i:\00 topicos em orientacao a objetos\02 my\editor\listadupla.h
+
+1352082266 source:i:\00 topicos em orientacao a objetos\02 my\editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+	"listaDupla.h"
+	"linhas.h"
+	"tela.h"
+
+1352082192 source:i:\00 topicos em orientacao a objetos\02 my\editor\tela.c
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	"tela.h"
+	<string.h>
+
+1351986990 source:i:\00 topicos em orientacao a objetos\02 my\editor\linhas.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"linhas.h"
+
+1351901160 source:k:\00 topicos em orientacao a objetos\02 my\editor - backup 3 - escrita voltar apos nova linha\listadupla.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"listaDupla.h"
+
+1352140168 k:\00 topicos em orientacao a objetos\02 my\editor - backup 3 - escrita voltar apos nova linha\tela.h
+	"linhas.h"
+	"listaDupla.h"
+
+1351888170 k:\00 topicos em orientacao a objetos\02 my\editor - backup 3 - escrita voltar apos nova linha\linhas.h
+	"listaDupla.h"
+
+1351894860 k:\00 topicos em orientacao a objetos\02 my\editor - backup 3 - escrita voltar apos nova linha\listadupla.h
+
+1352138328 source:k:\00 topicos em orientacao a objetos\02 my\editor - backup 3 - escrita voltar apos nova linha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+	"listaDupla.h"
+	"linhas.h"
+	"tela.h"
+
+1352140936 source:k:\00 topicos em orientacao a objetos\02 my\editor - backup 3 - escrita voltar apos nova linha\tela.c
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	"tela.h"
+	<string.h>
+
+1352138328 source:k:\00 topicos em orientacao a objetos\02 my\editor - backup 3 - escrita voltar apos nova linha\linhas.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"linhas.h"
+
+1352237176 source:g:\00 topicos em orientacao a objetos\02 my\editor\listadupla.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"listaDupla.h"
+
+1352244024 g:\00 topicos em orientacao a objetos\02 my\editor\tela.h
+	"linhas.h"
+	"listaDupla.h"
+
+1352219726 g:\00 topicos em orientacao a objetos\02 my\editor\linhas.h
+	"listaDupla.h"
+
+1352148506 g:\00 topicos em orientacao a objetos\02 my\editor\listadupla.h
+
+1352243940 source:g:\00 topicos em orientacao a objetos\02 my\editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+	"listaDupla.h"
+	"linhas.h"
+	"tela.h"
+
+1352244914 source:g:\00 topicos em orientacao a objetos\02 my\editor\tela.c
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	"tela.h"
+	<string.h>
+	<unistd.h>
+
+1352240126 source:g:\00 topicos em orientacao a objetos\02 my\editor\linhas.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"linhas.h"
+
+1352237176 source:d:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\listadupla.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"listaDupla.h"
+
+1352244024 d:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\tela.h
+	"linhas.h"
+	"listaDupla.h"
+
+1352219726 d:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\linhas.h
+	"listaDupla.h"
+
+1352148506 d:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\listadupla.h
+
+1352243940 source:d:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+	"listaDupla.h"
+	"linhas.h"
+	"tela.h"
+
+1352245730 source:d:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\tela.c
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	"tela.h"
+	<string.h>
+	<unistd.h>
+
+1352240126 source:d:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\linhas.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"linhas.h"
+
+1352237176 source:g:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\listadupla.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"listaDupla.h"
+
+1352244024 g:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\tela.h
+	"linhas.h"
+	"listaDupla.h"
+
+1352219726 g:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\linhas.h
+	"listaDupla.h"
+
+1352148506 g:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\listadupla.h
+
+1352243940 source:g:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+	"listaDupla.h"
+	"linhas.h"
+	"tela.h"
+
+1352245730 source:g:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\tela.c
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	"tela.h"
+	<string.h>
+	<unistd.h>
+
+1352240126 source:g:\00 topicos em orientacao a objetos\02 my\editores\issamu\editor\linhas.c
+	<stdio.h>
+	<stdlib.h>
+	"tela.h"
+	"linhas.h"
+

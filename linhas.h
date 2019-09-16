@@ -1,0 +1,34 @@
+#include "listaDupla.h"
+#ifndef LINHA
+#define LINHA
+
+struct linha
+{
+    Lista*   info;
+    struct
+            linha *proximo,
+            *anterior;
+};
+typedef struct linha Linha;
+
+struct listaDeLinhas
+{
+    int tamanho;
+    Linha *inicio,
+    *fim,
+    *atual;
+};
+typedef struct listaDeLinhas ListaDeLinhas;
+
+ListaDeLinhas* createLinhas(ListaDeLinhas *lista);
+void writeLinhas (ListaDeLinhas *listaDeLinhas, int ind, Lista *c);
+Lista* readLinhas  (ListaDeLinhas *listaDeLinhas, int ind);
+Lista* eraseLinhas (ListaDeLinhas *listaDeLinhas, int ind);
+
+void verificarLinhas(ListaDeLinhas *listaDeLinhas);
+
+int getTamanhoL(ListaDeLinhas *listaDeLinhas);
+
+
+#endif
+
